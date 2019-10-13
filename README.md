@@ -1,2 +1,0 @@
-# leocarrizaleshtmlresume
-Created with CodeSandbox
