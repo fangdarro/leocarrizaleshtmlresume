@@ -11,13 +11,7 @@ body {
   top: 0;
   left: 0;
 }
-.Profile {
-  margin-top: 10em;
-  margin-block-start: 4%;
-  position: fixed;
-  top: 40em;
-  align-content: top;
-}
+
 .card {
   position: absolute;
   left: 32em;
@@ -36,17 +30,27 @@ body {
   position: relative;
 }
 
+.profile-image img {
+  border-radius: 50%;
+}
+
 footer {
-  margin-bottom: 5em;
-  border-bottom: 30em;
+  margin-bottom: 1em;
+  border-bottom: 1em;
   color: black;
   height: auto;
   background-color: aqua;
-  margin-top: 50em;
 }
-.card {
+.card1 {
   left: 6em;
   right: 8em;
   align-content: center;
-  margin-top: 23em;
+  margin-top: 12em;
+}
+
+h1 {
+  font-size: 400%;
+  color: white;
+  border-style: solid;
+  margin-top: 10%;
 }
